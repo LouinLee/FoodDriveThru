@@ -1,0 +1,15 @@
+DRIVETHRU_WEB
+
+Group 07:
+Alfredo Judd Djono,
+Louin Liman,
+Owen Felix.
+
+LINK	:
+
+http://159.65.132.69/DRIVETHRUWEB/admin_login.php
+
+Login	:
+
+username: admin
+password: admin
